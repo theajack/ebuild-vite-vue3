@@ -8,3 +8,11 @@
 Vite Vue3 Pinia template for ebuild-cli
 
 [ebuild-cli](https://github.com/theajack/ebuild)
+
+```
+ebuild init <name>
+
+cd <name>
+pnpm i
+npm run dev
+```
